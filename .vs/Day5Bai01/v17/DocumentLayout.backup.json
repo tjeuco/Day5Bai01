@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E4D0438-8F0F-48FA-9106-AB8429993CDB}|Day5Bai01.csproj|e:\\quan backup\\csharp\\day5bai01\\itstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4D0438-8F0F-48FA-9106-AB8429993CDB}|Day5Bai01.csproj|solutionrelative:itstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E4D0438-8F0F-48FA-9106-AB8429993CDB}|Day5Bai01.csproj|e:\\quan backup\\csharp\\day5bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E4D0438-8F0F-48FA-9106-AB8429993CDB}|Day5Bai01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ITStudent.cs",
+              "DocumentMoniker": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\ITStudent.cs",
+              "RelativeDocumentMoniker": "ITStudent.cs",
+              "ToolTip": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\ITStudent.cs",
+              "RelativeToolTip": "ITStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:40:35.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T06:33:48.927Z",
               "EditorCaption": ""

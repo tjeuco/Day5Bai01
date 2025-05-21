@@ -12,3 +12,4 @@ E:\QUAN BACKUP\Csharp\Day5Bai01\obj\Debug\net9.0\refint\Day5Bai01.dll
 E:\QUAN BACKUP\Csharp\Day5Bai01\obj\Debug\net9.0\Day5Bai01.pdb
 E:\QUAN BACKUP\Csharp\Day5Bai01\obj\Debug\net9.0\Day5Bai01.genruntimeconfig.cache
 E:\QUAN BACKUP\Csharp\Day5Bai01\obj\Debug\net9.0\ref\Day5Bai01.dll
+E:\QUAN BACKUP\Csharp\Day5Bai01\obj\Debug\net9.0\Day5Bai01.sourcelink.json
