@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxL/o1WFXDM=",
+  "success": true,
+  "projectFilePath": "E:\\QUAN BACKUP\\Csharp\\Day5Bai01\\Day5Bai01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.5\\microsoft.dotnet.ilcompiler.9.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.5\\microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
